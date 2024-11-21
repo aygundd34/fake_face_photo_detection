@@ -1,5 +1,4 @@
-
-# Yapay Zeka ile Yüz Fotoğraflarının Tespiti
+# Yapay Zeka ile Üretilmiş Sahte Yüz Fotoğraflarının Tespiti
 
 Bu proje, yapay zeka (AI) kullanarak sahte yüz fotoğraflarını tespit etmeyi amaçlayan bir sınıflandırma modelidir. Derin öğrenme yöntemlerini ve önceden eğitilmiş modelleri kullanarak, gerçek ve yapay (AI ile üretilmiş) yüz fotoğraflarını ayırt edebilen bir sistem geliştirilmiştir. Proje, yüz tanıma ve görsel analiz alanlarında önemli bir uygulamaya sahiptir, özellikle sahte yüz fotoğraflarının tanımlanması ve bu tür içeriklerin tespiti için kullanılabilir.
 
